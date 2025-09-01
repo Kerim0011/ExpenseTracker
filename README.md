@@ -21,8 +21,7 @@ Create a database expense_tracker.
 
 Create expenses table:
 
-sql
-Kopiraj kod
+
 CREATE TABLE expenses (
     id INT AUTO_INCREMENT PRIMARY KEY,
     title VARCHAR(255) NOT NULL,
